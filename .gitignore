@@ -1,0 +1,10 @@
+# IDEA
+.idea
+*.iml
+target
+coverage
+test
+build
+
+# OS
+.DS_Store
