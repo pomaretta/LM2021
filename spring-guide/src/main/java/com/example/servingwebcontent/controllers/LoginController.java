@@ -3,7 +3,6 @@ package com.example.servingwebcontent.controllers;
 import com.example.servingwebcontent.representation.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.util.MultiValueMap;
 import org.springframework.web.bind.annotation.*;
 
 @Controller
